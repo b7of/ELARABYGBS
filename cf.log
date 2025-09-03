@@ -1,0 +1,17 @@
+{"level":"info","time":"2025-08-17T20:16:17Z","message":"Thank you for trying Cloudflare Tunnel. Doing so, without a Cloudflare account, is a quick way to experiment and try it out. However, be aware that these account-less Tunnels have no uptime guarantee, are subject to the Cloudflare Online Services Terms of Use (https://www.cloudflare.com/website-terms/), and Cloudflare reserves the right to investigate your use of Tunnels for violations of such terms. If you intend to use Tunnels in production you should use a pre-created named tunnel by following: https://developers.cloudflare.com/cloudflare-one/connections/connect-apps"}
+{"level":"info","time":"2025-08-17T20:16:17Z","message":"Requesting new quick Tunnel on trycloudflare.com..."}
+{"level":"info","time":"2025-08-17T20:16:23Z","message":"+--------------------------------------------------------------------------------------------+"}
+{"level":"info","time":"2025-08-17T20:16:23Z","message":"|  Your quick Tunnel has been created! Visit it at (it may take some time to be reachable):  |"}
+{"level":"info","time":"2025-08-17T20:16:23Z","message":"|  https://colors-cnet-our-somehow.trycloudflare.com                                         |"}
+{"level":"info","time":"2025-08-17T20:16:23Z","message":"+--------------------------------------------------------------------------------------------+"}
+{"level":"info","time":"2025-08-17T20:16:23Z","message":"Cannot determine default configuration path. No file [config.yml config.yaml] in [~/.cloudflared ~/.cloudflare-warp ~/cloudflare-warp /etc/cloudflared /usr/local/etc/cloudflared]"}
+{"level":"info","time":"2025-08-17T20:16:23Z","message":"Version 2024.12.1 (Checksum b868cfffc393dd9f1c5ae79812353c2ff73cfa95da4c3dcb0ec98ce55d13943d)"}
+{"level":"info","time":"2025-08-17T20:16:23Z","message":"GOOS: linux, GOVersion: go1.22.5, GoArch: amd64"}
+{"level":"info","time":"2025-08-17T20:16:23Z","message":"Settings: map[ha-connections:1 logfile:cf.log protocol:quic url:127.0.0.1:3333]"}
+{"level":"info","time":"2025-08-17T20:16:23Z","message":"Generated Connector ID: 31d4fb4b-44e1-40ef-bd48-2b78572f1c88"}
+{"level":"info","time":"2025-08-17T20:16:23Z","message":"cloudflared will not automatically update if installed by a package manager."}
+{"level":"info","time":"2025-08-17T20:16:24Z","message":"Initial protocol quic"}
+{"level":"info","time":"2025-08-17T20:16:24Z","message":"ICMP proxy will use 192.168.108.128 as source for IPv4"}
+{"level":"info","time":"2025-08-17T20:16:24Z","message":"ICMP proxy will use fe80::20c:29ff:fec5:2a56 in zone eth0 as source for IPv6"}
+{"level":"info","time":"2025-08-17T20:16:24Z","message":"Starting metrics server on 127.0.0.1:20241/metrics"}
+{"level":"info","event":0,"connection":"8b8c9d4f-4f6c-4179-b4e0-2c981e314ea7","connIndex":0,"location":"cdg09","ip":"198.41.200.193","protocol":"quic","time":"2025-08-17T20:16:25Z","message":"Registered tunnel connection"}

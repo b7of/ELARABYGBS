@@ -1,0 +1,88 @@
+ELARABY - Information Gathering Report
+------------------------------------
+
+Device Information
+----------------------------
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 
+Platform: Windows 
+Cookies Enabled: true
+Browser Language: en-US
+Browser Name: Netscape
+Browser CodeName: Mozilla
+RAM: 8
+CPU Cores: 8
+Screen Width: 2000
+Screen Height: 2000
+Local Time: 1:23:54 PM
+RefUrl: https://www.facebook.com/
+OS CPU: undefined
+-------------------------
+ELARABY - Information Gathering Report
+------------------------------------
+
+Device Information
+----------------------------
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 
+Platform: Windows 
+Cookies Enabled: true
+Browser Language: en-US
+Browser Name: Netscape
+Browser CodeName: Mozilla
+RAM: 8
+CPU Cores: 8
+Screen Width: 2000
+Screen Height: 2000
+Local Time: 1:23:54 PM
+RefUrl: https://www.facebook.com/
+OS CPU: undefined
+-------------------------
+
+Target IP Detail
+----------------
+IP: 31.13.127.1
+---------------
+ELARABY - Information Gathering Report
+------------------------------------
+
+Device Information
+----------------------------
+User Agent: Mozilla/5.0 (Linux; Android 14; SM-G990E Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36 Instagram 394.0.0.27.81 Android (34/14; 480dpi; 1080x2097; samsung; SM-G990E; r9s; exynos2100; en_US; 778736418; IABMV/1) 
+Platform: Linux aarch64 
+Cookies Enabled: true
+Browser Language: en-US
+Browser Name: Netscape
+Browser CodeName: Mozilla
+RAM: 8
+CPU Cores: 8
+Screen Width: 360
+Screen Height: 780
+Local Time: 11:38:12 PM
+RefUrl: https://l.instagram.com/
+OS CPU: undefined
+-------------------------
+ELARABY - Information Gathering Report
+------------------------------------
+
+Device Information
+----------------------------
+User Agent: Mozilla/5.0 (Linux; Android 14; SM-G990E Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36 Instagram 394.0.0.27.81 Android (34/14; 480dpi; 1080x2097; samsung; SM-G990E; r9s; exynos2100; en_US; 778736418; IABMV/1) 
+Platform: Linux aarch64 
+Cookies Enabled: true
+Browser Language: en-US
+Browser Name: Netscape
+Browser CodeName: Mozilla
+RAM: 8
+CPU Cores: 8
+Screen Width: 360
+Screen Height: 780
+Local Time: 11:38:12 PM
+RefUrl: https://l.instagram.com/
+OS CPU: undefined
+-------------------------
+
+Target IP Detail
+----------------
+IP: 176.29.227.196
+---------------
+
+User denied the Geolocation permision.
