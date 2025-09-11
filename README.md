@@ -65,4 +65,4 @@ No explicit license is provided. If you intend to publish this tool for educatio
 
 ---
 
-*This README describes the tool as a location-tracking script and provides safe instructions for download and execution only.*
+
